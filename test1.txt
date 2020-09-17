@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 9E2D-A4E5
+
+ Directory of C:\Users\SHussain55\OneDrive - Schlumberger\Desktop\MyGITProject
+
+09/17/2020  02:31 AM    <DIR>          .
+09/17/2020  02:31 AM    <DIR>          ..
+09/17/2020  02:31 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  214,520,766,464 bytes free
